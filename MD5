@@ -1,0 +1,16 @@
+e441f5cf29c8130eb1aa9bb5e4cdb69c *DESCRIPTION
+de8a9f5a4b4d6c819e8fb82df934c0be *LICENSE.note
+78154a55b460df910696f992227af39e *NAMESPACE
+41edb279bf8355218dddb21d67558071 *NEWS.md
+0a4c32a4e4501723c475ff688f0e5a94 *R/chakraNumericInput.R
+09e1377cbbe636a6faa3e0a4842fc5d7 *R/chakraSlider.R
+0d550dbb0ccb3b59be1af36772e10889 *R/internal.R
+184f0683f8dc6a123f60a8f7a924f4c4 *README.md
+7d861520a9b8bd40d64a38b3973c529e *inst/www/shinyChakraSlider/chakraSlider/chakraSlider.js
+4a3b8c68e0703974e88def9d23246526 *inst/www/shinyChakraSlider/chakraSlider/chakraSlider.js.map
+15409565bf10e8f3f308f0d7f2ee2292 *man/chakraNumberInput.Rd
+c32ea803911e1e5012eaefada037664e *man/chakraSliderInput.Rd
+8e3fc7bbf0e2f8d9b78c350d2e6e4a99 *man/numberInputOptions.Rd
+b23449aa0c48fbf3ca2a235921a4b9c5 *man/thumbOptions.Rd
+6da62ab2ecb8392dfb8e7c4f30f54669 *man/updateChakraNumberInput.Rd
+1d69dd67a4eb98a6430653424f662b8d *man/updateChakraSliderInput.Rd
